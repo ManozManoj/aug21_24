@@ -31,4 +31,4 @@ jobs:
     - name: Test with pytest
       run: |
         conda install pytest
-        python aug21_24.ipynb
+        python aug21_24
